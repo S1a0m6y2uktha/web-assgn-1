@@ -1,0 +1,14 @@
+.cont{
+    background-image:radial-gradient(#dfc5fe,white);
+    background-size: cover;
+    width:100vw;
+    height:100vh;
+    color:#454545;
+    font-family:'Courier New', Courier, monospace;
+    text-align:center;
+}
+.cont2{
+    border-style: outset;
+    border-color:black;
+    margin-bottom: 30px;
+}
